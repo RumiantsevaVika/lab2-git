@@ -4,3 +4,4 @@ r2: more logic
 r3: stable point
 r4 (Blue)
 r9 blue
+r12 blue
