@@ -1,12 +1,13 @@
-Start Project
-HEAD
-r5: top branch start
-r6: middle top
-r7: top end
-
+r0: Start Project
 r1: logic
 r2: more logic
 r3: stable point
+r4 (Blue)
+r5: top branch start
+r6: middle top
+r7: top end
 r8: continuing lower line
+r9 blue
 r10: lower line end
-lower_red
+r12 blue
+r13 blue
