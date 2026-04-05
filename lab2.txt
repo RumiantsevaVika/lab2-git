@@ -1,3 +1,4 @@
 Start Project
 r1: logic
 r2: more logic
+r3: stable point
